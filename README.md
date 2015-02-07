@@ -4,6 +4,11 @@ Localización y traducción de [io.js](https://iojs.org/) a Español
 ## Colaboradores
 - Adrián Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Ramirez ([@RamirezAlex](https://github.com/RamirezAlex))
+- Johan Hernandez ([@bithavoc](https://github.com/bithavoc))
+
+## En Redes Sociales
+
+- [https://www.facebook.com/iojses](https://www.facebook.com/iojses)
 
 ## The MIT License (MIT)
 
