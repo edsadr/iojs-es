@@ -1,6 +1,8 @@
 # iojs-es
 Localización y traducción de [io.js](https://iojs.org/) a Español
 
+[![Gitter chat](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/iojs/iojs-es)
+
 ## Colaboradores
 - Adrián Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Ramirez ([@RamirezAlex](https://github.com/RamirezAlex))
