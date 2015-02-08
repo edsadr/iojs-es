@@ -5,6 +5,7 @@ Localización y traducción de [io.js](https://iojs.org/) a Español
 - Adrián Estrada ([@edsadr](https://github.com/edsadr))
 - Alexander Ramirez ([@RamirezAlex](https://github.com/RamirezAlex))
 - Johan Hernandez ([@bithavoc](https://github.com/bithavoc))
+- Javier Carrillo ([@stringparser](https://github.com/stringparser))
 
 ## En Redes Sociales
 
